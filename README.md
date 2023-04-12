@@ -1,4 +1,4 @@
-# Starting point
+# manuq-linux
 
 [![build-ublue](https://github.com/manuq/manuq-linux/actions/workflows/build.yml/badge.svg)](https://github.com/manuq/manuq-linux/actions/workflows/build.yml)
 
